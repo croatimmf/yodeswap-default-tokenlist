@@ -31,6 +31,14 @@
         },
         {
             "chainId": 2000,
+            "address": "0x28D0f961209fC67486034DE5Bf8D3ff702c34C58",
+            "name": "DCDoge",
+            "symbol": "DCD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x95d5C32e16E19E0ba9b9A128f63a34a2796fb3df/logo.png"
+        },
+        {
+            "chainId": 2000,
             "address": "0x6FC4563460d5f45932C473334d5c1C5B4aEA0E01",
             "symbol": "YODE",
             "name": "Yodeswap Token",
